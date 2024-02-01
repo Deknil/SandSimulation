@@ -36,7 +36,7 @@ To run the Sand Simulation project on your local machine, follow these steps:
 Clone the Repository:
 
 ```bash
-git clone https://github.com/Deknil/sand-simulation.git
+git clone https://github.com/Deknil/SandSimulation.git
 ```
 
 Navigate to the Project Directory:
