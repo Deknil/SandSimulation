@@ -42,7 +42,7 @@ git clone https://github.com/Deknil/SandSimulation.git
 Navigate to the Project Directory:
 
 ```bash
-cd sand-simulation
+cd SandSimulation
 ```
 
 Compile and Run the Application:
